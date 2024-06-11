@@ -1,2 +1,2 @@
 # Epric-Osu-Skins
-# [pepric 7k v2 (latest)](https://drive.google.com/file/d/1m3tvNGnHYwDk-h4eqLEypbhLsgiIDycz/view?usp=drive_link) ![image](https://i.imgur.com/A8WzcS8.png)
+# [pepric 7k v2 (latest)](https://drive.google.com/file/d/1m3tvNGnHYwDk-h4eqLEypbhLsgiIDycz/view?usp=drive_link) ![image](https://cdn.discordapp.com/attachments/1209935446843334727/1250073988449828974/screenshot042.png?ex=66699da0&is=66684c20&hm=134b1223ff5b24164ff3bff0e0b77c4132eb9cd6bc2cf579ec192d1f962132ba&)
